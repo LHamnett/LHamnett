@@ -5,5 +5,5 @@ Experience with deploying Machine learning models and designing deep neural netw
 
 ### Machine Learning and Data Science Portfolio ###
 [Machine Learning and Data Science Portfolio](https://lhamnett.github.io/)
-Click the above link to see my portfolio of research papers and machine learning projects
+<br> Click the above link to see my portfolio of research papers and machine learning projects
 
