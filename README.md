@@ -1,8 +1,8 @@
-### Leon Hamnett
+## Leon Hamnett - Machine Learning and Data Science
 
-Machine learning engineer and published machine learning researcher with interest in AI for good. Experience with deploying Machine learning models and desgning deep neural networks.
+Machine learning Engineer and published machine learning researcher with interest in AI for good. Experience with deploying Machine learning models and desgning deep neural networks.
 
-## Machine Learning and Data Science Portfolio]((https://lhamnett.github.io/)##
+### Machine Learning and Data Science Portfolio ###
 [Machine Learning and Data Science Portfolio](##https://lhamnett.github.io/)
 Click the above link to see my portfolio of research papers and machine learning projects
 
