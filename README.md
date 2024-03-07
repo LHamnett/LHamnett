@@ -1,3 +1,7 @@
-### Leon Hamnett's Machine Learning and Data Science Portfolio
-See [this page](https://lhamnett.github.io/) for a summary of my machine learning portfolio and specific links to individual projects
+### Leon Hamnett
+
+Machine learning engineer and published machine learning researcher with interest in AI for good. Experience with deploying Machine learning models and desgning deep neural networks.
+
+<u> Machine Learning and Data Science Portfolio </u>
+See [this page](https://lhamnett.github.io/) for my machine learning and data science portfolio with specific links to individual projects
 
