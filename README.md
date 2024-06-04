@@ -1,4 +1,4 @@
-## Leon Hamnett - Machine Learning Engineer and Data Scientist
+## Leon Hamnett - Machine Learning Engineer / Machine Learning Researcher
 
 Machine Learning Engineer and published Machine Learning researcher with interest in AI for good. 
 <br> Experience with deploying Machine learning models and designing deep neural networks.
